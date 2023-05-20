@@ -6,6 +6,8 @@
 import collections
 
 # @lc code=start
+
+
 class Solution:
     def nearestExit(self, maze: list[list[str]], entrance: list[int]) -> int:
         n, m = len(maze), len(maze[0])
@@ -27,6 +29,7 @@ class Solution:
 # @lc code=end
 
 solution = Solution()
-maze = [["+",".","+","+","+","+","+"],["+",".","+",".",".",".","+"],["+",".","+",".","+",".","+"],["+",".",".",".","+",".","+"],["+","+","+","+","+",".","+"]]
+maze = [["+", ".", "+", "+", "+", "+", "+"], ["+", ".", "+", ".", ".", ".", "+"], ["+", ".", "+",
+                                                                                   ".", "+", ".", "+"], ["+", ".", ".", ".", "+", ".", "+"], ["+", "+", "+", "+", "+", ".", "+"]]
 entrance = [0, 1]
 print(solution.nearestExit(maze, entrance))
