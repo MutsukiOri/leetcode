@@ -15,4 +15,4 @@
 - [ ]  [399. Evaluate Division](https://leetcode.com/problems/evaluate-division/)
 - [ ]  [1926. Nearest Exit from Entrance in Maze](https://leetcode.com/problems/nearest-exit-from-entrance-in-maze/)
 - [ ]  [215. Kth Largest Element in an Array](https://leetcode.com/problems/kth-largest-element-in-an-array/)
-
+- [ ]  [2542. Maximam Subsequence Score](https://leetcode.com/problems/maximum-subsequence-score/)
